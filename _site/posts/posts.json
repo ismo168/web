@@ -5,15 +5,15 @@
     "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Ismaila Ouedraogo",
+        "url": "https://oismaila.netlify.app/"
       }
     ],
     "date": "2020-12-06",
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2020-12-06T19:17:59+01:00",
-    "input_file": {}
+    "last_modified": "2020-12-06T19:51:21+01:00",
+    "input_file": "welcome.utf8.md"
   }
 ]
